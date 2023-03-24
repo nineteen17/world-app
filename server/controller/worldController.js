@@ -1,4 +1,4 @@
-//Controller is where we handle the functions which contain MYSQL queries
+//Controller is where we handle the functions which contain our http request logic and queries 
 
 const pool = require("../pool.js");
 

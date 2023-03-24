@@ -1,6 +1,6 @@
 //Routes is where we store our paths
 const express = require('express');
-const {country, city, addCity } = require('../controller/worldCont.js');
+const {country, city, addCity } = require('../controller/worldController.js');
 
 const router = express.Router();
 

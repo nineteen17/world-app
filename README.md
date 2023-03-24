@@ -1,6 +1,6 @@
 # world-app
 
-IMPORTANT Add your password and schema into the .env file
+IMPORTANT Add your password into the .env file
 
 run commands below:
 
